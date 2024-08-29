@@ -1,6 +1,7 @@
 node_modules/
 .next/
 .DS_STORE
-.env
+.env.test
 .idea
 *.iml
+.vercel
